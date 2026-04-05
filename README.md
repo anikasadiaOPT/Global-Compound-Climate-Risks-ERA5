@@ -92,3 +92,22 @@ Unlike traditional approaches that focus on single variables or isolated extreme
 
 #### Skill Score:
 
+SS = (F1_ML − F1_persistence) / (1 − F1_persistence)
+
+
+---
+
+### 🔹 5. Explainable AI (SHAP)
+- Quantifies contribution of each variable
+- Provides **regional and seasonal interpretability**
+
+---
+
+### 🔹 6. Trend Analysis
+- Mann-Kendall test for trend detection
+- Sen’s slope for magnitude estimation
+- Benjamini-Hochberg FDR correction (q < 0.10)
+
+---
+
+## 🔄 Workflow Pipeline
