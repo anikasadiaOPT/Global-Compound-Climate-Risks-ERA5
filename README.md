@@ -111,3 +111,71 @@ SS = (F1_ML − F1_persistence) / (1 − F1_persistence)
 ---
 
 ## 🔄 Workflow Pipeline
+
+
+
+---
+
+## 🌟 Key Contributions
+
+- Fully **data-driven multivariate climate index**
+- First **global surface-only regime framework at monthly scale**
+- Integration of:
+  - Regime detection
+  - Predictability analysis
+  - Explainable AI
+  - Trend detection
+- Statistically robust framework with **baseline benchmarking and FDR correction**
+
+---
+
+## 📈 Expected Outcomes
+
+- Identification of **global climate risk regimes**
+- Improved understanding of **compound climate interactions**
+- Insights into **predictability of climate patterns**
+- Detection of **emerging climate risk hotspots**
+
+---
+
+## ⚠️ Limitations
+
+- Monthly resolution does not capture short-term extreme events
+- PCA reduces dimensional complexity (possible information loss)
+- SHAP sensitivity to correlated variables
+
+---
+
+## 📚 References
+
+- Hersbach et al. (2023) – ERA5 dataset  
+- Zscheischler et al. (2020) – Compound climate events  
+- Michelangeli et al. (1995) – Weather regimes  
+- Bevacqua et al. (2021) – Compound event guidelines  
+- Zhang et al. (2024) – Explainable AI in climate science  
+
+---
+
+## 🚀 Future Work
+
+- Extend analysis to **daily-scale extreme events**
+- Incorporate **higher-order PCA components**
+- Explore **deep learning approaches**
+- Apply framework to **regional impact assessments**
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, and collaborations are welcome.
+
+---
+
+## 📬 Contact
+
+- **Name:** SADIA AFRIN ANIKA
+- **Email:** anikasadia2723@gmail.com  
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
