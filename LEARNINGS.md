@@ -1,5 +1,5 @@
 # 📔 Project Reflections & Technical Growth
-> *A journey through data, climate science, and the pursuit of academic excellence (1990–2023).*
+> *A journey through data, machine learning, climate science, and the pursuit of academic excellence (1990–2023).*
 
 ---
 
