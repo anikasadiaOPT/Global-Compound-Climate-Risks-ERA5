@@ -13,3 +13,4 @@ Understanding the data was the most critical part of this research. I worked wit
 
 
 ### 🗺️ ECMWF ERA5 Climate Reanalysis
+From the ERA5 monthly surface-level datasets, we have taken 6 variables: t2m, tcc, si10, tp, ssr, and avg_tprate. Here is the analysis of the dataset: 
