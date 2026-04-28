@@ -53,8 +53,16 @@ tcc has both daytime and nighttime effects.
 
 What I have learned during this journey:
 
-1. Monthly Climatology calculation: From 1990 to 2023, I calculated 12 months mean/year. Total mean = 12 * 33 = 486 number of means.
+1. Monthly Climatology calculation($\mu_{m}$):: From 1990 to 2023, I calculated 12 months mean/year. Total mean = 12 * 33 = 486 number of means.
                        <img width="372" height="113" alt="image" src="https://github.com/user-attachments/assets/12877dfc-ab01-4a75-a100-6f7ca15e0ad5" />
+
+
+
+2. Anommalies Calculation  ($x'_{t}$): to remove seasonal noise.
+
+
+                          <img width="316" height="72" alt="image" src="https://github.com/user-attachments/assets/2d6a5d80-fbbe-4fb2-b297-283646fc8a9e" />
+
 
 
 ## ✨ Closing Note
