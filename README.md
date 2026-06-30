@@ -8,7 +8,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-orange)
 ---
 
-## 📌 Overview
+### 📌 Overview
 
 This project presents a **data-driven framework** to analyze **global compound climate risk regimes** using ERA5 monthly surface reanalysis data from **1990 to 2023**.
 
